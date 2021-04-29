@@ -1,18 +1,20 @@
-### Tech
+### About Me
 
-* [Eleven21](https://eleven21.co)
-* [GreatPositive](https://greatpositive.com)
+[Madi Karizma](https://madikarizma.com)
 
-### Music
+Co-Founder, Head of Product and Engineering at The Winston Project ([Eleven21](https://eleven21.co))
 
-* [Madi Karizma](https://madikarizma.com)
-* [Midnight Revolta](https://midnightrevolta.com)
-* [Motel Fire Recording Studio](https://motelfirerecordingstudio.com)
+Co-Founder of [GreatPositive](https://greatpositive.com)
+
+Vocals/Guitar for [Midnight Revolta](https://midnightrevolta.com)
+
+Owner, Operator of [Motel Fire Recording Studio](https://motelfirerecordingstudio.com)
 
 ### Social
 
-* [LinkedIn](https://linkedin.com/in/madikarizma)
-* [Instagram](https://instagram.com/madikarizma)
+[LinkedIn](https://linkedin.com/in/madikarizma)
+
+[Instagram](https://instagram.com/madikarizma)
 
 ---
 
