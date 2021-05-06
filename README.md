@@ -19,3 +19,5 @@ Owner, Operator of [Motel Fire Recording Studio](https://motelfirerecordingstudi
 ---
 
 No is temporary, yes is forever.
+
+Canceling a meeting is a random act of kindness.
