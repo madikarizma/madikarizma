@@ -22,4 +22,6 @@ No is temporary, yes is forever.
 
 Mistakes are fine, but lack of effort isn't.
 
+Write the code that's needed at this moment.
+
 Canceling a meeting is a random act of kindness.
