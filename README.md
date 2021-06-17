@@ -24,4 +24,4 @@ Mistakes are fine, but lack of effort isn't.
 
 Write the code that's needed at this moment.
 
-Canceling a meeting is a random act of kindness.
+The more a component does, or the more specific a component is, the harder it is to reuse.
