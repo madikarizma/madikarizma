@@ -18,6 +18,8 @@
 * Be very careful about trying to get happier than happy.
 * Invest in helping those who need vs. investing in having more than you need.
 
+![image](https://user-images.githubusercontent.com/498069/125231097-2189e380-e2a8-11eb-819e-0c8cf0154a64.png)
+
 ### Social
 
 * [LinkedIn](https://linkedin.com/in/madikarizma)
