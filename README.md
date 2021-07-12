@@ -7,8 +7,6 @@
 * Owner, Operator of [Motel Fire Recording Studio](https://motelfirerecordingstudio.com)
 * Basketball player
 
-[![Midnight Revolta "Something Wicked This Way Comes"](https://img.youtube.com/vi/irn94MFi6SI/0.jpg)](https://www.youtube.com/watch?v=irn94MFi6SI)
-
 ### Approach
 
 * Always be learning.
