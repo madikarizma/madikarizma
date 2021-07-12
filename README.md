@@ -15,7 +15,7 @@
 * Write the code that's needed at this moment.
 * The more a component does, or the more specific a component is, the harder it is to reuse.
 * Commit to a process, not a goal.
-* Be very careful about trying to get happier than happy.
+* Be very careful about trying to become happier than happy.
 * Invest in helping those who need vs. investing in having more than you need.
 
 ### Social
