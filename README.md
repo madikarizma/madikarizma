@@ -17,6 +17,7 @@
 * Commit to a process, not a goal.
 * Be very careful about trying to become happier than happy.
 * Invest in helping those who need vs. investing in having more than you need.
+* How you do anything is how you do everything.
 
 ### Social
 
