@@ -35,7 +35,7 @@
   * [Scaling Yourself • Scott Hanselman • GOTO 2012](https://www.youtube.com/watch?v=FS1mnISoG7U)
   * [Agile is Dead • Pragmatic Dave Thomas • GOTO 2015](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
   * [ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)
-* Documentaries
+* Stories
   * [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
   * [How Open Source Changed My Life with Max Stoiber](https://www.youtube.com/watch?v=ifq3xhik8tE)
 * Posts
