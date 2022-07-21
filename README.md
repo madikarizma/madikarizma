@@ -43,7 +43,7 @@
 * Learning
   * [Patterns.dev](https://www.patterns.dev/)
 * Products
-  * [mymind](mymind.com)
+  * [mymind](https://mymind.com/)
 
 ### Social
 
