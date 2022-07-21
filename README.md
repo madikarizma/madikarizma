@@ -21,6 +21,12 @@
 * How you do anything is how you do everything.
 * Invest in helping those who need vs. investing in having more than you need.
 
+### Reading
+
+* ["Buy Then Build: How Acquisition Entrepreneurs Outsmart the Startup Game"](https://www.amazon.com/Buy-Then-Build-Acquisition-Entrepreneurs-ebook/dp/B07JKM2F5Q) by Walker Deibel
+* ["The Captain Class: The Hidden Force That Creates the World's Greatest Teams"](https://www.amazon.com/Captain-Class-Hidden-Creates-Greatest/dp/0812997190) by Sam Walker
+* ["Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems"](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) by Martin Kleppmann
+
 ### Social
 
 * [LinkedIn](https://linkedin.com/in/madikarizma)
