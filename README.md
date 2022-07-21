@@ -10,7 +10,7 @@
 * [Artist](https://www.instagram.com/p/CdrZWWgOjd5/)
 * Basketball player
 
-### Beliefs
+### Belief System
 
 * Keep it real.
 * Always be learning.
