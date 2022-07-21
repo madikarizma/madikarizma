@@ -29,9 +29,9 @@
 
 ### Recommended
 
-* Talk: [Scaling Yourself • Scott Hanselman • GOTO 2012](https://www.youtube.com/watch?v=FS1mnISoG7U)
-* App: [mymind](mymind.com)
-* Post: ["103 Bits of Advice I Wish I Had Known"](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/) by Kevin Kelly (The Technium)
+* [Scaling Yourself • Scott Hanselman • GOTO 2012](https://www.youtube.com/watch?v=FS1mnISoG7U)
+* [mymind](mymind.com)
+* ["103 Bits of Advice I Wish I Had Known"](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/) by Kevin Kelly (The Technium)
 
 ### Social
 
