@@ -27,6 +27,12 @@
 * ["The Captain Class: The Hidden Force That Creates the World's Greatest Teams"](https://www.amazon.com/Captain-Class-Hidden-Creates-Greatest/dp/0812997190) by Sam Walker
 * ["Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems"](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) by Martin Kleppmann
 
+### Recommended
+
+* Talk: [Scaling Yourself • Scott Hanselman • GOTO 2012](https://www.youtube.com/watch?v=FS1mnISoG7U)
+* App: [mymind](mymind.com)
+* Post: ["103 Bits of Advice I Wish I Had Known"](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/) by Kevin Kelly (The Technium)
+
 ### Social
 
 * [LinkedIn](https://linkedin.com/in/madikarizma)
