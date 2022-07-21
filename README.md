@@ -11,6 +11,7 @@
 
 ### Beliefs
 
+* Keep it real.
 * Always be learning.
 * No is temporary, yes is forever.
 * Mistakes are fine, but lack of effort isn't.
