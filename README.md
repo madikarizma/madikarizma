@@ -34,6 +34,7 @@
 * [Scaling Yourself • Scott Hanselman • GOTO 2012](https://www.youtube.com/watch?v=FS1mnISoG7U)
 * ["103 Bits of Advice I Wish I Had Known"](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/) by Kevin Kelly (The Technium)
 * [mymind](mymind.com)
+* [Patterns.dev](https://www.patterns.dev/)
 
 ### Social
 
