@@ -23,6 +23,23 @@
 * How you do anything is how you do everything.
 * Invest in helping those who need vs. investing in having more than you need.
 
+### Skills & Familiarities
+
+| Area of Focus | Skills |
+| --- | --- |
+| JavaScript | Modern JavaScript features, Node.js, reactive frameworks (Vue, React, Next.js, Angular), jQuery, Alpine, third-party JavaScript development (widgets) |
+| Workflows & DevOps | Git, CI/CD, GitHub, GitHub Actions, code reviews, automation (i.e. Semantic Versioning, dependency management, npm package publishing), GitHub Issues & Projects |
+| Templating & Static Site Generator Frameworks | 11ty, Nunjucks, Gridsome (for Vue), Hugo, Mustache, Handlebars, Jekyll |
+| Tooling | Vite, Rollup, Gulp, Webpack, Grunt, custom scripts |
+| Front End Architecture | Scalable utility CSS libraries (Tailwind CSS, Tachyons), scalable CSS conventions (BEM, OOCSS, SMACSS), PostCSS, PostHTML, modular, domain-driven development (DDD), separation of concerns (SoC), testing (Jest), fast-performance standards |
+| Serverless & Backend Development | Serverless functions, PHP, PHP frameworks (Laravel, Slim), Python |
+| Data Stores & Querying | MongoDB, PostgreSQL, MySQL, GraphQL |
+| API Development | CORS, REST architecture, authorization |
+| Security & Stability | General web security, session management, JSON Web Tokens (JWT), authentication, authorization, error monitoring/app stability management (Bugsnag, Sentry) |
+| Platforms | Netlify, AWS, Heroku, Vercel |
+| Favorite Services | Auth0, Transloadit, Imgix, SendGrid |
+| UX/UI and Product Design | Figma, Sketch, design systems, accessibility standards, design patterns (component-based, efficiency) |
+
 ### Reading
 
 * ["Buy Then Build: How Acquisition Entrepreneurs Outsmart the Startup Game"](https://www.amazon.com/Buy-Then-Build-Acquisition-Entrepreneurs-ebook/dp/B07JKM2F5Q) by Walker Deibel
