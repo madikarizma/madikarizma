@@ -3,7 +3,6 @@
 * Entrepreneur, Product &amp; Engineering Leader
 * UX/UI Designer
 * Director of Engineering at [Noodle](https://about.noodle.com/)
-* Co-Founder, Product and Engineering at Glens Falls is the Future (launching soon)
 * [Madi Karizma](https://madikarizma.com)
 * Vocals/Guitar for [Midnight Revolta](https://midnightrevolta.com)
 * Owner, Operator of [Motel Fire Recording Studio](https://motelfirerecordingstudio.com)
