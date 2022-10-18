@@ -48,7 +48,7 @@
 ### Recommended
 
 * Books
-  * ["Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application"](https://www.amazon.com/Getting-Real-Smarter-Successful-Application/dp/0578012812) by Jason Fried, David Heinemeier Hansson
+  * ["Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application"](https://www.amazon.com/Getting-Real-Smarter-Successful-Application/dp/0578012812) by Jason Fried & David Heinemeier Hansson
 * Talks
   * [Scaling Yourself • Scott Hanselman • GOTO 2012](https://www.youtube.com/watch?v=FS1mnISoG7U)
   * [Agile is Dead • Pragmatic Dave Thomas • GOTO 2015](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
