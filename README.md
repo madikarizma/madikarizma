@@ -2,7 +2,7 @@
 
 * Entrepreneur, Product &amp; Engineering Leader
 * UX/UI Designer
-* Director of Engineering at [Noodle](https://about.noodle.com/)
+* VP of Engineering at [RehabPath](https://rehabpath.com/)
 * [Madi Karizma](https://madikarizma.com)
 * Vocals/Guitar for [Midnight Revolta](https://midnightrevolta.com)
 * Owner, Operator of [Motel Fire Recording Studio](https://motelfirerecordingstudio.com)
@@ -26,16 +26,16 @@
 
 | Area of Focus | Skills |
 | --- | --- |
-| JavaScript | Modern JavaScript features, Node.js, reactive frameworks (Vue, React, Next.js, Angular), jQuery, Alpine, third-party JavaScript development (widgets) |
+| JavaScript | Modern JavaScript features, Node.js, reactive libraries/frameworks (React, Vue, Next.js, Angular), jQuery, Alpine, third-party JavaScript development (widgets) |
 | Workflows & DevOps | Git, CI/CD, GitHub, GitHub Actions, code reviews, automation (i.e. Semantic Versioning, dependency management, npm package publishing), GitHub Issues & Projects |
 | Templating & Static Site Generator Frameworks | 11ty, Nunjucks, Gridsome (for Vue), Hugo, Mustache, Handlebars, Jekyll |
 | Tooling | Vite, Rollup, Gulp, Webpack, Grunt, custom scripts |
-| Front End Architecture | Scalable utility CSS libraries (Tailwind CSS, Tachyons), scalable CSS conventions (BEM, OOCSS, SMACSS), PostCSS, PostHTML, modular, domain-driven development (DDD), separation of concerns (SoC), testing (Jest), fast-performance standards |
+| Front End Architecture | Scalable utility CSS libraries (Tailwind CSS, Tachyons), scalable CSS conventions (BEM, OOCSS, SMACSS), styled-components, PostCSS, PostHTML, modular, domain-driven development (DDD), separation of concerns (SoC), testing (Jest), fast-performance standards |
 | Serverless & Backend Development | Serverless functions, PHP, PHP frameworks (Laravel, Slim), Python |
-| Data Stores & Querying | MongoDB, PostgreSQL, MySQL, GraphQL |
+| Databases | MongoDB, GraphQL, PlanetScale, Prisma, PostgreSQL, MySQL |
 | API Development | CORS, REST architecture, authorization |
 | Security & Stability | General web security, session management, JSON Web Tokens (JWT), authentication, authorization, error monitoring/app stability management (Bugsnag, Sentry) |
-| Platforms | Netlify, AWS, Heroku, Vercel |
+| Platforms | Vercel, Netlify, AWS, Heroku |
 | Favorite Services | Auth0, Transloadit, Imgix, SendGrid |
 | UX/UI and Product Design | Figma, Sketch, design systems, accessibility standards, design patterns (component-based, efficiency) |
 
@@ -47,6 +47,8 @@
 
 ### Recommended
 
+* Books
+  * ["Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application"](https://www.amazon.com/Getting-Real-Smarter-Successful-Application/dp/0578012812) by Jason Fried, David Heinemeier Hansson
 * Talks
   * [Scaling Yourself • Scott Hanselman • GOTO 2012](https://www.youtube.com/watch?v=FS1mnISoG7U)
   * [Agile is Dead • Pragmatic Dave Thomas • GOTO 2015](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
